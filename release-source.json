@@ -1,0 +1,23 @@
+{
+  "target": "dotnet",
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "repository": "https://github.com/AnyOAuth/anyoauth-dotnet",
+  "release": "https://github.com/AnyOAuth/anyoauth-dotnet/releases/tag/v0.1.0",
+  "schemaSha256": "1b99cb23da24b2aa0af33d45aadf907de460185671bc29fa61402450e390d6a2",
+  "sourceCommit": "c44e7460cbebe26a6baa00bc6c4ee2f48d69e907",
+  "files": {
+    ".github/workflows/verify.yml": "e126410b017667134a9d31aac61940ca4b09993bfad43582830d726c08496a18",
+    ".gitignore": "83e9133e57dda751344052d09ba612ed1216c2f4a427b72021061bea57d95074",
+    "AnyOAuth.SDK.csproj": "83180e4c39080848a635fb2311bc3e340b0e0dc3133e7233e5231ae2713340b6",
+    "AnyOAuth.cs": "0ba4f528c9e7715bff217ee4d15da81ee26417ef635ea7a288bcccc4b34e7480",
+    "LICENSE": "3c9fac2d1ae230e52ce82ed635341b438e0c4957bc637a1a792c2def5b82c61a",
+    "README.md": "c4be6b3099c906124addb4e8a74b547f09c486f7e1f5db574ea01d9ee2b25abd",
+    "contract.json": "c63a01517cf66ae37cdc9e6adb822254a8c4368a78188e2bdc34b1a50138c1d0",
+    "provenance.json": "1ce8883acb7ba0ade04807a648c60a5376002c161d4d1f2214f9732a2a02b88e",
+    "test/conformance/Conformance.csproj": "fe49a924f292dbf44700a59e1da49646c26d738fea861dadd283ac04ec6d8638",
+    "test/conformance/Program.cs": "05f2786e6c5d0ddf72ec982939cc03751bea89e01e509075cffb5ae4eafcf9ad",
+    "test/conformance/check.mjs": "41020c7451c060525137c599154e4c1fdb0db97f89119bdccac062e8024c265a",
+    "verify.mjs": "802dc7f317874fa184356c29b1d89179e8e6941065218ada35b80f9d1b6300e7"
+  }
+}

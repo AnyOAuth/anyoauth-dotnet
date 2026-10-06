@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "schemaSha256": "1b99cb23da24b2aa0af33d45aadf907de460185671bc29fa61402450e390d6a2",
+  "generatorVersion": "1",
+  "target": "dotnet",
+  "files": [
+    ".github/workflows/verify.yml",
+    ".gitignore",
+    "AnyOAuth.SDK.csproj",
+    "AnyOAuth.cs",
+    "LICENSE",
+    "README.md",
+    "contract.json",
+    "test/conformance/Conformance.csproj",
+    "test/conformance/Program.cs",
+    "test/conformance/check.mjs",
+    "verify.mjs"
+  ]
+}
